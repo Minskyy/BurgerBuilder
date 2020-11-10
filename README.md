@@ -1,4 +1,4 @@
-The deployed version of this app is available through https://burgerbuilder-5da8a.web.app/
+## The deployed version of this app is available through https://burgerbuilder-5da8a.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
